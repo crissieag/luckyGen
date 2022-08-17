@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">luckyGen</string>
+    <string name="greetings"> Hello </string>
+    <string name="txtBtn">Show me my luck</string>
+    <string name="loadingTxt">We\'re searching for your lucky message… </string>
+</resources>
